@@ -32,15 +32,16 @@ npm install</br>
 
 npm run dev</br>
 
-This will launch the app in your default browser at:
+## This will launch the app in your default browser at:
 🌐 http://localhost:5173
 
-🧪 Tech Stack
-React – UI library
-Vite – Fast build tool
-Axios – For API calls
-CSS Variables + Animations – For dynamic theming and effects
-📂 Folder Structure
+### 🧪 Tech Stack</br>
+React – UI library</br>
+Vite – Fast build tool</br>
+Axios – For API calls</br>
+CSS Variables + Animations – For dynamic theming and effects</br>
+
+### 📂 Folder Structure
 
 src/<br>
 │</br>
