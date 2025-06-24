@@ -18,12 +18,20 @@ Follow these simple steps to run the app locally on your machine:
 
 ### 1. 🧱 Clone the Repository
 
-git clone https://github.com/your-username/your-repo-name.git 2. 📁 Navigate into the Project Directory
-cd your-repo-name 3. 📦 Install Dependencies
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Jenith1304/MoviesListing.git) </br>
 
-npm install 4. ⚡ Start the Development Server
+### 2. 📁 Navigate into the Project Directory</br>
 
-npm run dev
+cd MoviesListing </br>
+
+### 3. 📦 Install Dependencies</br>
+
+npm install</br>
+
+### 4. ⚡ Start the Development Server</br>
+
+npm run dev</br>
+
 This will launch the app in your default browser at:
 🌐 http://localhost:5173
 
