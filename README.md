@@ -34,13 +34,13 @@ Axios – For API calls
 CSS Variables + Animations – For dynamic theming and effects
 📂 Folder Structure
 
-src/
-│
-├── components/ # Reusable components (Header, MovieList, etc.)
-├── data/ # Dummy fallback data
-├── App.jsx # Main application component
-├── main.jsx # Entry point
-└── index.css # Global styles
+src/<br>
+│</br>
+├── components/ # Reusable components (Header, MovieList, etc.)</br>
+├── data/ # Dummy fallback data</br>
+├── App.jsx # Main application component</br>
+├── main.jsx # Entry point</br>
+└── index.css # Global styles</br>
 
 ## Screenshot
 
